@@ -1,0 +1,173 @@
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\csc.exe
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\csc.exe.config
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\csc.rsp
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\csi.exe
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\csi.exe.config
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\csi.rsp
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.AppContext.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Console.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.Claims.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\vbc.exe
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\vbc.exe.config
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\vbc.rsp
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\Portfolio.dll.config
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\Portfolio.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\Portfolio.pdb
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\triosStudent\Desktop\portfolio2\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csc.exe
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csc.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csc.rsp
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csi.exe
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csi.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csi.rsp
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.AppContext.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Console.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Claims.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\vbc.exe
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\vbc.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\vbc.rsp
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\Portfolio.dll.config
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\Portfolio.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\Portfolio.pdb
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.csprojAssemblyReference.cache
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CopyComplete
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\Muz Choudhry\Desktop\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csc.exe
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csc.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csc.rsp
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csi.exe
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csi.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\csi.rsp
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.AppContext.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Console.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Claims.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\vbc.exe
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\vbc.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\vbc.rsp
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\Portfolio.dll.config
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\Portfolio.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\Portfolio.pdb
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.csprojAssemblyReference.cache
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CopyComplete
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\Muz Choudhry\Desktop\portfolio complete\portfolio school march 5th\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
